@@ -1,0 +1,3 @@
+wangbo get 100
+fred get 100
+bob get 90
